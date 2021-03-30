@@ -1,4 +1,4 @@
-## The First Network Verification Workshop
+## The First Network Verification Workshop ![Img](src) 
 
 **Scope and Objective**
 
