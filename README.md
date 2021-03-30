@@ -38,7 +38,7 @@ We invite talks on a wide range of topics of interest, including, but not limite
 
 We are committed to creating an inclusive and welcoming workshop. We have strived to create a diverse program and participant pool for our workshop, and to share our workshop widely. However, we also are grateful for suggestions of any individual researchers who we might have missed.
 
-Questions? Contact us at apoorv.shukla@huawei.com.
+Questions? Contact us at [apoorv.shukla@huawei.com](apoorv.shukla@huawei.com).
 
 **Sponsors**
 
