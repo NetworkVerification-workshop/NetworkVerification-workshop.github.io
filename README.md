@@ -1,4 +1,4 @@
-## The First Network Verification Workshop ![Img](Huawei.jpg)![Img](TUB_better.PNG)
+## The 1st Network Verification Workshop ![Img](Huawei.jpg)![Img](TUB_better.PNG)
 
 **Scope and Objective**
 
