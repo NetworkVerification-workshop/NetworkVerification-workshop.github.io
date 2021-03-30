@@ -17,7 +17,7 @@ We invite talks on a wide range of topics of interest, including, but not limite
 
 •	Architectural support for network verification
 
-•	Incrementally deployable designs for Internet verification
+•	Incrementally deployable designs for network verification
 
 •	Network and distributed systems access control
 
