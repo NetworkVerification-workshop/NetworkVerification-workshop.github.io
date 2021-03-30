@@ -1,4 +1,4 @@
-## The First Network Verification Workshop ![Img](src) 
+## The First Network Verification Workshop ![Img](TU-Berlin-Logo.svg.png) 
 
 **Scope and Objective**
 
