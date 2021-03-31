@@ -1,6 +1,6 @@
 ![Img](Huawei.jpg)![Img](TUB_better.PNG) 
 
-##Scope and Objective
+**Scope and Objective**
 
 The 1st Network Verification workshop hosted by Huawei-TU Berlin innovation lab aims to provide a forum for the community to come together and rethink fundamental questions, breakthrough solutions in Network Verification. The networks were not designed with verification as indispensable requirement. However, as more and more applications rely on correct and secure network services provided by the underlying Cloud provider, the importance of network verification on Cloud provider becomes significant. In the near future, the verification of networks and distributed systems is poised to become a mandatory first-class design goal, just like performance, reliability, etc. In the past, one impediment in designing verified networks was that the Internet was very hard to change. Networking devices used to be proprietary and expensive blackboxes provided by few switch vendors. Despite many radical proposals, many of these useful ideas and designs cannot be easily integrated into the operational network without an expensive forklift upgrade.
 
