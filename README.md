@@ -26,6 +26,12 @@ We invite talks on a wide range of topics of interest, including, but not limite
 
 **Talk Submission Details**
 
+TBA
+
+**Dates and Agenda**
+
+TBA
+
 **Workshop Organizers**
 
 [Apoorv Shukla](https://www.apoorv.net/) (Huawei Munich Research Center)
