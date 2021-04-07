@@ -26,9 +26,15 @@ We invite talks on a wide range of topics of interest, including, but not limite
 
 **Talk Submission Details**
 
-TBA
+20 minutes talk followed by 10 mins Q&A.
 
 **Dates and Agenda**
+
+One day event between June 14-June 18 depending on [doodle](https://dudle.inf.tu-dresden.de/network-verification/) entries.
+
+Welcome Talk (8 - 8:30 AM CEST)
+
+Keynote (8:30 - 9:00 AM CEST)
 
 TBA
 
