@@ -30,7 +30,7 @@ We invite talks on a wide range of topics of interest, including, but not limite
 
 **Dates and Agenda**
 
-One day event between June 14-June 18 depending on [doodle](https://dudle.inf.tu-dresden.de/network-verification/) entries.
+One day event in June depending on [doodle](https://dudle.inf.tu-dresden.de/network-verification/) entries.
 
 Welcome Talk (8 - 8:30 AM CEST)
 
