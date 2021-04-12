@@ -34,7 +34,7 @@ One day event in July depending on [doodle](https://dudle.inf.tu-dresden.de/netw
 
 Welcome Talk (8 - 8:30 AM CEST)
 
-Keynote (8:30 - 9:00 AM CEST)
+Keynote by Prof. Jon Crowcroft, Cambridge University, London (8:30 - 9:00 AM CEST)
 
 TBA
 
