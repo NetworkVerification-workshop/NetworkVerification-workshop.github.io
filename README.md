@@ -6,6 +6,17 @@ The 1st Network Verification workshop hosted by Huawei-TU Berlin innovation lab 
 
 Lately, researchers have realized that network verification is of paramount importance. Furthermore, with the advent of network programmability, lot of flexibility and customization can be leveraged to deliver in-house and homegrown solutions. Our networking community has already developed a range of new systems and in-network capabilities such as In-band Network Telemetry (INT), In-network caching, etc. In this workshop, we are soliciting talks from the pioneers in this field that focus on developing and examining the area of network verification while identifying missing or unaddressed gaps. We welcome contributions on early ideas in these areas, talks that outline upcoming cool solutions to hot problems, as well as preliminary ideas from ongoing projects that could benefit the audience as well as the presenter via brainstorming. The workshop seeks to bring together experts from academia and industry in networking, and systems, with the goal of identifying exciting opportunities for network verification in the area of cloud datacenter networks and follow-up on interesting collaboration opportunities. We strive to strengthen the community by working towards the common goal of solving the main challenges. 
 
+Key Objectives:
+
+• Build a resource/technology landscape 
+
+• Identify current research trends and hot problems
+
+• Identify possible future collaboration partners
+
+• Follow-up on possible future collaborations
+
+
 **Topics of Interest**
 
 We invite talks on a wide range of topics of interest, including, but not limited to:
