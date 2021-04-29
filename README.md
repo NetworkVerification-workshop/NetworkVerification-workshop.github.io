@@ -41,7 +41,7 @@ By invitation only. 20 minutes talk followed by 10 mins Q&A.
 
 **Dates and Agenda**
 
-One day event in July depending on [doodle](https://dudle.inf.tu-dresden.de/network-verification/) entries.
+Workshop happens on July 29, 2021.
 
 Welcome Talk (8 - 8:30 AM CEST)
 
