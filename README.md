@@ -115,7 +115,7 @@ way programmable data planes can be employed for network monitoring. With a focu
 
 We are committed to creating an inclusive and welcoming workshop. We have strived to create a diverse program and participant pool for our workshop, and to share our workshop widely. However, we also are grateful for suggestions of any individual researchers who we might have missed.
 
-Questions? Contact us at [apoorv.shukla@huawei.com](mailto:apoorv.shukla@huawei.com?subject=[GitHub]%20Source%20Han%20Sans).
+Questions? Contact us at [apoorv.shukla1@huawei.com](mailto:apoorv.shukla1@huawei.com?subject=[GitHub]%20Source%20Han%20Sans).
 
 **Sponsors**
 
