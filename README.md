@@ -41,9 +41,7 @@ We invite talks on a wide range of topics of interest, including, but not limite
 
 By invitation only. 20 minutes talk followed by 10 mins Q&A.
 
-**Dates and Agenda**
-
-July 29, 2021
+**Agenda: July 29, 2021**
 
 **Welcome and Introduction to Munich Research Center** by [Dr. Goetz-Philip Brasche](https://www.linkedin.com/in/g%C3%B6tz-philip-brasche-7397b), CTO Cloud Europe (8:00 - 8:20 AM CEST)
 
@@ -69,7 +67,7 @@ July 29, 2021
 
 **Abstract**: Network interface cards (NICs) are fundamental components of modern high-speed networked systems, supporting multi-100 Gbps speeds and increasing programmability. Offloading computation from a server’s CPU to a NIC frees a substantial amount of the server’s CPU resources, making NICs key to offer competitive cloud services. Therefore, verifying the performance benefits and limitations of offloading a networking application to a NIC is of paramount importance. In this paper, we measure the performance of four different NICs from one of the largest NIC vendors worldwide, supporting 100 Gbps and 200 Gbps. We show that while today’s NICs can easily support multihundred-gigabit throughputs, performing frequent update operations of a NIC’s packet classifier — as network address translators (NATs) and load balancers would do for each incoming connection — results in a dramatic throughput reduction of up to 70 Gbps or complete denial of service. Our conclusion is that all tested NICs cannot support high-speed networking applications that require keeping track of a large number of frequently arriving incoming connections. Furthermore, we show a variety of counter-intuitive performance artefacts including the performance impact of using multiple tables to classify flows of packets.
 
-Break 10 mins (10:30 - 10:40 AM)
+**Break 10 mins** (10:30 - 10:40 AM)
 
 **Talk: Towards performance verification of datacenter networks** by [Prof. Costin Raiciu](http://nets.cs.pub.ro/~costin/), Associate Professor at University Politehnica of Bucharest, Bucharest (10:40 - 11:10 AM CEST)
 
@@ -84,7 +82,7 @@ Break 10 mins (10:30 - 10:40 AM)
 **Abstract**: As networks become programmable, they essentially become execution environments for software objects, and software is still brittle in comparison. Undeniably, network verification gains on importance in this context, most notably in a model, where network is provided as a service. Luckily, research has just recently reported quite impressive advances in this field, e.g., integrating INT, probing, classical software verification tools and AI methods.
 Still, in the overall puzzle of software-driven networks, network verification might be just one piece, and we will argue that it might not be the most important one. The main problem of network verification is that it always “runs behind”, as an a posteriori process seeking to verify the correctness of the executed network(s). Hence, even if network verification concludes at a given time point, errors might still happen due to concurrency, conflicts with later allocations or due to errors in the executing environment. Trying to open a new research area, in this talk we argue that for a programmable environment to be successful, it would seem more important a) to isolate executed objects from each other, rendering negative influence impossible and b) to enforce the correctness of the executing environment regardless of the operating conditions.
 
-Lunch Break (30 mins) (12:10 - 12:40 PM)
+**Lunch Break (30 mins)** (12:10 - 12:40 PM)
 
 **Talk: From hardware to software, or from software to hardware? Abstractions for programmable packet processing in the NIC** by [Dr. Roberto Bifulco](https://www.robertobifulco.it/), Manager of Intelligent Software Systems Group at NEC, Heidelberg (12:40 - 13:10 PM CEST)
 
