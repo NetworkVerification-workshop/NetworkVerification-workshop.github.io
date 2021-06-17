@@ -45,7 +45,7 @@ July 29, 2021
 
 **Welcome and Introduction to Munich Research Center** by [Dr. Goetz-Philip Brasche](https://www.linkedin.com/in/g%C3%B6tz-philip-brasche-7397b), CTO Cloud Europe (8:00 - 8:20 AM CEST)
 
-**Presentation of the Ultra-scale AIOps Lab** by [Dr. Jorge Cardoso](https://jorge-cardoso.github.io/), Chief Architect, AIOps (8:20 AM - 8:50 AM CEST)
+**Introduction of the Ultra-scale AIOps Lab** by [Dr. Jorge Cardoso](https://jorge-cardoso.github.io/), Chief Architect, AIOps (8:20 AM - 8:50 AM CEST)
 
 **Abstract**: This talk will give a brief overview of the Ultra-scale AIOps Lab. The lab was created to conduct R&D on the development of new tools and systems which rely on machine learning and deep learning techniques to automate IT operations (AIOps or AI for Operations), intelligently process data near its generation (Edge AI), and leverage AI to automate network tasks such as network verification, configuration, and optimization (AI for Networks). Another area of interest which we are fostering is AI for DevOps which relies on AI to improve the various phases of software development such as coding, testing, configuration and deployment.
 
