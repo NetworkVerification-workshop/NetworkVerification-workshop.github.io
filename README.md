@@ -49,7 +49,7 @@ July 29, 2021
 
 **Abstract**: This talk will give a brief overview of the Ultra-scale AIOps Lab. The lab was created to conduct R&D on the development of new tools and systems which rely on machine learning and deep learning techniques to automate IT operations (AIOps or AI for Operations), intelligently process data near its generation (Edge AI), and leverage AI to automate network tasks such as network verification, configuration, and optimization (AI for Networks). Another area of interest which we are fostering is AI for DevOps which relies on AI to improve the various phases of software development such as coding, testing, configuration and deployment.
 
-**Moderator**: [Dr. Apoorv Shukla](https://www.apoorv.net), Senior Networks Researcher at Huawei Munich Research Center
+**Moderator**: [Dr. Apoorv Shukla](https://www.apoorv.net), Senior Networks Researcher in Cloud at Huawei Munich Research Center
 
 **Keynote: Practical (privacy preserving) federated ML for networked system behaviours** by [Prof. Jon Crowcroft](https://www.cst.cam.ac.uk/people/jac22), Full Professor at Cambridge University, London (8:30 - 9:00 AM CEST)
 
