@@ -105,11 +105,11 @@ way programmable data planes can be employed for network monitoring. With a focu
 
 **Workshop Organizers**
 
-[Apoorv Shukla](https://www.apoorv.net/) (Huawei Munich Research Center)
+[Dr. Apoorv Shukla](https://www.apoorv.net/) (Huawei Munich Research Center)
 
-[Jorge Cardoso](https://jorge-cardoso.github.io/) (Huawei Munich Research Center and University of Coimbra)
+[Dr. Jorge Cardoso](https://jorge-cardoso.github.io/) (Huawei Munich Research Center and University of Coimbra)
 
-[Odej Kao](https://www.cit.tu-berlin.de/kao/) (TU Berlin)
+[Prof. Odej Kao](https://www.cit.tu-berlin.de/kao/) (TU Berlin)
 
 **Diversity and Inclusion**
 
