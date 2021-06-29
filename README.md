@@ -57,7 +57,7 @@ By invitation only. 20 minutes talk followed by 10 mins Q&A.
 
 **Abstract**: In this talk I'll discuss ways for pragmatic (i.e. empirical) verification of syste behaviours through federated machine learning. I'll touch on ways to make the federated ML scale, and provide privacy (in case there are sensitivies about nodes behaviour). The same techniques apply in the edge (IoT, Smart Spaces) and the Cloud (data center, rack scale etc). CLassical simple ML like PCA and SGD can be deployed in this framework. Future challenges include whether full Bayesian Model Inferencing can be carried out within this framework. References: Colearn (edgesys), Moses (arxiv) and Pronto (arxiv).
 
-**Talk: Performance Verification of Network Components** by [Prof. Georg Carle](https://www.net.in.tum.de/members/carle/), Full Professor at TU Munich, Munich (9:020 - 9:50 AM CEST)
+**Talk: Performance Verification of Network Components** by [Prof. Georg Carle](https://www.net.in.tum.de/members/carle/), Full Professor at TU Munich, Munich (9:20 - 9:50 AM CEST)
 
 **Abstract**: There is a need for predictable network services, implying the ability of network performance verification. This task gets more challenging with the shift from fixed-function network devices with limited configurability towards implementing network functionality using virtualisation and programmable network components. A prominent example of this development is P4 that provides a language and reference architecture model to design and program network devices. In the talk key challenges for providing predictable network services are identified, and approaches for performance verification are presented.
 
