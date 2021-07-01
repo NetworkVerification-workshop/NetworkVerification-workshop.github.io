@@ -71,9 +71,9 @@ By invitation only. 20 minutes talk followed by 10 mins Q&A.
 
 **Break 10 mins** (10:50 - 11:00 AM)
 
-**Talk: Towards performance verification of datacenter networks** by [Prof. Costin Raiciu](http://nets.cs.pub.ro/~costin/), Associate Professor at University Politehnica of Bucharest, Bucharest (11:00 - 11:30 AM CEST)
+**Talk: : P4 Bugs: Find them or Exploit them** by [Prof. Costin Raiciu](http://nets.cs.pub.ro/~costin/), Associate Professor at University Politehnica of Bucharest, Bucharest (11:00 - 11:30 AM CEST)
 
-**Abstract**: Network correctness verification is a maturing field, with tools available for finding configuration and hardware bugs in production networks. In this work we take the next logical step in this direction, asking whether we can automatically and conitnuously verify that the performance of datacenter networks is in line with the expected performance. We focus on datacenter networks, and show that key to performance verification is an efficient dataplane that can address both load balancing and incast issues that plague performance in traditional approaches. With such a dataplane deployed, we show it is possible to automatically verify the performance of a live datacenter network via encouraging results from a prototype systems’ implementation.
+**Abstract**: P4 programs exhibit many types of bugs which can lead to incorrect packet processing or potentially malicious exploitation. In this talk I will discuss work on automatically discovering and fixing such bugs with as little user input as possible, and the adverse effects such bugs can have when deployed in networks.
 
 **Talk: Fast Automated What-if Analysis and Updates for Policy-Compliant Networks Even Under Failures** by [Prof. Stefan Schmid](https://www.univie.ac.at/ct/stefan/), Full Professor at TU Berlin, Berlin (11:30 AM - 12:00 PM CEST)
 
