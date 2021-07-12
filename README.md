@@ -101,7 +101,7 @@ In this talk we give an overview of the challenges in this area, and then we pre
 **Abstract**: The possibility to easily add new functionality to network data planes has lately opened new exciting research directions towards understanding how such a programmability can impact the design of networks as well as their services. In this talk, I will present some of the work I have been doing in rethinking the 
 way programmable data planes can be employed for network monitoring. With a focus on the in-band network telemetry (INT), I will analyse its drawbacks and introduce our effort in reducing the overheads on packets that this fine-grained measurement mechanism requires. I will then discuss challenges and open research questions for next generation network monitoring solutions. 
 
-**Closing Remarks**
+**Closing Remarks** by [Dr. Apoorv Shukla]((https://www.apoorv.net/), Senior Researcher at Huawei Cloud, Munich Reasearch Center (14:30 - 14:45 PM CEST)
 
 **Workshop Organizers**
 
