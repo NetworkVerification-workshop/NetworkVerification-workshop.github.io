@@ -71,7 +71,7 @@ By invitation only. 20 minutes talk followed by 10 mins Q&A.
 
 **Break 10 mins** (10:50 - 11:00 AM)
 
-**Talk: : P4 Bugs: Find them or Exploit them** by [Prof. Costin Raiciu](http://nets.cs.pub.ro/~costin/), Associate Professor at University Politehnica of Bucharest, Bucharest (11:00 - 11:30 AM CEST)
+**Talk: P4 Bugs: Find them or Exploit them** by [Prof. Costin Raiciu](http://nets.cs.pub.ro/~costin/), Associate Professor at University Politehnica of Bucharest, Bucharest (11:00 - 11:30 AM CEST)
 
 **Abstract**: P4 programs exhibit many types of bugs which can lead to incorrect packet processing or potentially malicious exploitation. In this talk I will discuss work on automatically discovering and fixing such bugs with as little user input as possible, and the adverse effects such bugs can have when deployed in networks.
 
