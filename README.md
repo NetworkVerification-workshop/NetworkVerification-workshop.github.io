@@ -105,7 +105,7 @@ way programmable data planes can be employed for network monitoring. With a focu
 
 **Zoom-Meeting Link**
 
-https://tu-berlin.zoom.us/j/64108193700?pwd=Q1N1TlFCZXdDL0RFVWROVm80MTg5QT09
+[Link](https://tu-berlin.zoom.us/j/64108193700?pwd=Q1N1TlFCZXdDL0RFVWROVm80MTg5QT09)
 
 Meeting-ID: 641 0819 3700
 
