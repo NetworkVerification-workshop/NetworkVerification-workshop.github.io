@@ -103,6 +103,14 @@ way programmable data planes can be employed for network monitoring. With a focu
 
 **Closing Remarks** by [Dr. Apoorv Shukla](https://www.apoorv.net/), Senior Researcher at Huawei Cloud, Munich Reasearch Center (14:30 - 14:45 PM CEST)
 
+**Zoom-Meeting Link**
+
+https://tu-berlin.zoom.us/j/64108193700?pwd=Q1N1TlFCZXdDL0RFVWROVm80MTg5QT09
+
+Meeting-ID: 641 0819 3700
+
+Passcode: 946675
+
 **Workshop Organizers**
 
 [Dr. Apoorv Shukla](https://www.apoorv.net/) (Huawei Munich Research Center)
