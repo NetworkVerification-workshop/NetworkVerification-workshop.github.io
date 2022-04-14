@@ -1,4 +1,4 @@
-![Img](Huawei.jpg)![Img](TUB_better.PNG) 
+![Img](dash-logo.png)![Img](TUB_better.PNG) 
 
 **Scope and Objective**
 
